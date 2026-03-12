@@ -33,6 +33,8 @@ button{font-family:inherit;cursor:pointer}
 @keyframes fo{from{opacity:0}to{opacity:1}}
 @keyframes su{from{opacity:0;transform:translateY(16px)}to{opacity:1;transform:none}}
 select{background:var(--sf);border:1px solid var(--bd);border-radius:8px;padding:6px 10px;color:var(--tx);font-size:12px;font-family:inherit;outline:none}
+.page-bg{background:linear-gradient(180deg,rgba(11,20,38,0.97) 0%,rgba(13,30,52,0.95) 50%,rgba(11,20,38,0.97) 100%);min-height:calc(100vh - 52px);position:relative}
+.page-bg::before{content:'';position:absolute;top:0;left:0;right:0;bottom:0;background:radial-gradient(ellipse at 50% 0%,rgba(13,148,136,0.04) 0%,transparent 60%);pointer-events:none}
 </style>
 </head>
 <body>
