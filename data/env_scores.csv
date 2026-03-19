@@ -3,27 +3,22 @@ ADRIATIC SEA FISH,Ocean Health Index - Score (% Change 2024/2015),0.05659004946
 ADRIATIC SEA FISH,Ocean Health Index - Score (2015),0.6874
 ADRIATIC SEA FISH,Ocean Health Index - Score (2024),0.7263
 ADRIATIC SEA FISH,Reporting Precision PT Score,0.0409633983
-AKER BIOMARINE AS,FishSource Score - Current Stock Health,0.8
-AKER BIOMARINE AS,FishSource Score - Fishers Compliance,1
-AKER BIOMARINE AS,FishSource Score - Future Stock Health,0.8
-AKER BIOMARINE AS,FishSource Score - Management Quality,0.6
-AKER BIOMARINE AS,FishSource Score - Managers Compliance,0.8
-AKER BIOMARINE AS,Global Fishing Index - Access of foreign fishing fleets (assessment score),0.666
-AKER BIOMARINE AS,Global Fishing Index - Alignment with international standards for protecting worker rights and safety in fisheries (assessment score),0.666
-AKER BIOMARINE AS,Global Fishing Index - Compliance monitoring and surveillance programs (assessment score),0.826
-AKER BIOMARINE AS,Global Fishing Index - Data availability on stock sustainability,0.58168
-AKER BIOMARINE AS,Global Fishing Index - Fisheries governance score,0.788
-AKER BIOMARINE AS,Global Fishing Index - Fishery subsidy program (assessment score),0.534
-AKER BIOMARINE AS,Global Fishing Index - Knowledge on fishing fleets (assessment score),0.914
-AKER BIOMARINE AS,Global Fishing Index - Proportion of 1990-2018 catches that is not assessed,0.41832
-AKER BIOMARINE AS,Global Fishing Index - Proportion of 1990-2018 catches that is overfished,0.11186
-AKER BIOMARINE AS,Global Fishing Index - Proportion of 1990-2018 catches that is sustainable,0.46982
-AKER BIOMARINE AS,Global Fishing Index - Proportion of assessed fish stocks that is sustainable,0.58748
-AKER BIOMARINE AS,Global Fishing Index - Severity of fishery sanctions (assessment score),0.95
-AKER BIOMARINE AS,Ocean Health Index - Score (% Change 2024/2015),-0.06825073068
-AKER BIOMARINE AS,Ocean Health Index - Score (2015),0.7405
-AKER BIOMARINE AS,Ocean Health Index - Score (2024),0.68938
-AKER BIOMARINE AS,Reporting Precision PT Score,0.0778524245
+AKER BIOMARINE AS,Global Fishing Index - Access of foreign fishing fleets (assessment score),0.75
+AKER BIOMARINE AS,Global Fishing Index - Alignment with international standards for protecting worker rights and safety in fisheries (assessment score),0.83
+AKER BIOMARINE AS,Global Fishing Index - Compliance monitoring and surveillance programs (assessment score),0.88
+AKER BIOMARINE AS,Global Fishing Index - Data availability on stock sustainability,0.6068
+AKER BIOMARINE AS,Global Fishing Index - Fisheries governance score,0.7
+AKER BIOMARINE AS,Global Fishing Index - Fishery subsidy program (assessment score),0.1
+AKER BIOMARINE AS,Global Fishing Index - Knowledge on fishing fleets (assessment score),0.93
+AKER BIOMARINE AS,Global Fishing Index - Proportion of 1990-2018 catches that is not assessed,0.3932
+AKER BIOMARINE AS,Global Fishing Index - Proportion of 1990-2018 catches that is overfished,0.0522
+AKER BIOMARINE AS,Global Fishing Index - Proportion of 1990-2018 catches that is sustainable,0.5546
+AKER BIOMARINE AS,Global Fishing Index - Proportion of assessed fish stocks that is sustainable,0.5152
+AKER BIOMARINE AS,Global Fishing Index - Severity of fishery sanctions (assessment score),0.75
+AKER BIOMARINE AS,Ocean Health Index - Score (% Change 2024/2015),-0.04112774306
+AKER BIOMARINE AS,Ocean Health Index - Score (2015),0.6881
+AKER BIOMARINE AS,Ocean Health Index - Score (2024),0.6598
+AKER BIOMARINE AS,Reporting Precision PT Score,0.1740775689
 AKVA GROUP ASA,FishSource Score - Current Stock Health,0.6732805133
 AKVA GROUP ASA,FishSource Score - Fishers Compliance,0.8775400844
 AKVA GROUP ASA,FishSource Score - Future Stock Health,0.5706160846
@@ -94,11 +89,11 @@ ALDA SEAFOOD,Reporting Precision PT Score,0.6944524174
 ALDA SEAFOOD,SeaAroundUs Bottom Trawl / Total Catch (%),0.3066814704
 ALDA SEAFOOD,SeaAroundUs Gillnets / Total Catch (%),0.1142944411
 ALDA SEAFOOD,SeaAroundUs Unreported / Total Catch (%),0.072390803
-AMERICAN SEAFOODS,FishSource Score - Current Stock Health,0.7377685894
-AMERICAN SEAFOODS,FishSource Score - Fishers Compliance,0.7001383199
-AMERICAN SEAFOODS,FishSource Score - Future Stock Health,0.7458707955
-AMERICAN SEAFOODS,FishSource Score - Management Quality,0.6625178288
-AMERICAN SEAFOODS,FishSource Score - Managers Compliance,0.7173028413
+AMERICAN SEAFOODS,FishSource Score - Current Stock Health,0.7329815578
+AMERICAN SEAFOODS,FishSource Score - Fishers Compliance,0.6819648848
+AMERICAN SEAFOODS,FishSource Score - Future Stock Health,0.7293993183
+AMERICAN SEAFOODS,FishSource Score - Management Quality,0.6660235014
+AMERICAN SEAFOODS,FishSource Score - Managers Compliance,0.7011487179
 AMERICAN SEAFOODS,Global Fishing Index - Access of foreign fishing fleets (assessment score),0.514
 AMERICAN SEAFOODS,Global Fishing Index - Alignment with international standards for protecting worker rights and safety in fisheries (assessment score),0.468
 AMERICAN SEAFOODS,Global Fishing Index - Compliance monitoring and surveillance programs (assessment score),0.894
@@ -114,7 +109,7 @@ AMERICAN SEAFOODS,Global Fishing Index - Severity of fishery sanctions (assessme
 AMERICAN SEAFOODS,Ocean Health Index - Score (% Change 2024/2015),-0.08691900562
 AMERICAN SEAFOODS,Ocean Health Index - Score (2015),0.76296
 AMERICAN SEAFOODS,Ocean Health Index - Score (2024),0.6954
-AMERICAN SEAFOODS,Reporting Precision PT Score,0.8957451647
+AMERICAN SEAFOODS,Reporting Precision PT Score,0.8677264834
 AMERICAN SEAFOODS,SeaAroundUs Bottom Trawl / Total Catch (%),0.240048723
 AMERICAN SEAFOODS,SeaAroundUs Gillnets / Total Catch (%),7.916458134e-05
 AMERICAN SEAFOODS,SeaAroundUs Unreported / Total Catch (%),0.04333964749
@@ -342,7 +337,7 @@ BEAVER STREET FISHERIES,SeaAroundUs Unreported / Total Catch (%),0.224514404
 BIOMAR GROUP,Ocean Health Index - Score (% Change 2024/2015),-0.06395604029
 BIOMAR GROUP,Ocean Health Index - Score (2015),0.7318555556
 BIOMAR GROUP,Ocean Health Index - Score (2024),0.6845222222
-BIOMAR GROUP,Reporting Precision PT Score,0.8394398216
+BIOMAR GROUP,Reporting Precision PT Score,0.8255513015
 BLUMAR SA,FishSource Score - Current Stock Health,0.7402815036
 BLUMAR SA,FishSource Score - Fishers Compliance,0.6912106136
 BLUMAR SA,FishSource Score - Future Stock Health,0.7860425685
@@ -573,11 +568,11 @@ CHINA NATIONAL AGRICULTURAL DEVELOPMENT GROUP,Reporting Precision PT Score,0.214
 CHINA NATIONAL AGRICULTURAL DEVELOPMENT GROUP,SeaAroundUs Bottom Trawl / Total Catch (%),0.1517531911
 CHINA NATIONAL AGRICULTURAL DEVELOPMENT GROUP,SeaAroundUs Gillnets / Total Catch (%),0.01580316208
 CHINA NATIONAL AGRICULTURAL DEVELOPMENT GROUP,SeaAroundUs Unreported / Total Catch (%),0.1828337685
-CHINA NATIONAL FISHERIES CORPORATION,FishSource Score - Current Stock Health,0.7913529264
-CHINA NATIONAL FISHERIES CORPORATION,FishSource Score - Fishers Compliance,0.7201446159
-CHINA NATIONAL FISHERIES CORPORATION,FishSource Score - Future Stock Health,0.7798139162
-CHINA NATIONAL FISHERIES CORPORATION,FishSource Score - Management Quality,0.6099709241
-CHINA NATIONAL FISHERIES CORPORATION,FishSource Score - Managers Compliance,0.6968199992
+CHINA NATIONAL FISHERIES CORPORATION,FishSource Score - Current Stock Health,0.7913741884
+CHINA NATIONAL FISHERIES CORPORATION,FishSource Score - Fishers Compliance,0.7207942802
+CHINA NATIONAL FISHERIES CORPORATION,FishSource Score - Future Stock Health,0.7798628658
+CHINA NATIONAL FISHERIES CORPORATION,FishSource Score - Management Quality,0.6099481714
+CHINA NATIONAL FISHERIES CORPORATION,FishSource Score - Managers Compliance,0.6970407232
 CHINA NATIONAL FISHERIES CORPORATION,Global Fishing Index - Access of foreign fishing fleets (assessment score),0.5299489796
 CHINA NATIONAL FISHERIES CORPORATION,Global Fishing Index - Alignment with international standards for protecting worker rights and safety in fisheries (assessment score),0.5003061224
 CHINA NATIONAL FISHERIES CORPORATION,Global Fishing Index - Compliance monitoring and surveillance programs (assessment score),0.7434693878
@@ -593,10 +588,10 @@ CHINA NATIONAL FISHERIES CORPORATION,Global Fishing Index - Severity of fishery 
 CHINA NATIONAL FISHERIES CORPORATION,Ocean Health Index - Score (% Change 2024/2015),-0.05754700013
 CHINA NATIONAL FISHERIES CORPORATION,Ocean Health Index - Score (2015),0.7134253165
 CHINA NATIONAL FISHERIES CORPORATION,Ocean Health Index - Score (2024),0.6715291139
-CHINA NATIONAL FISHERIES CORPORATION,Reporting Precision PT Score,0.1968335168
-CHINA NATIONAL FISHERIES CORPORATION,SeaAroundUs Bottom Trawl / Total Catch (%),0.1447402314
-CHINA NATIONAL FISHERIES CORPORATION,SeaAroundUs Gillnets / Total Catch (%),0.01515556992
-CHINA NATIONAL FISHERIES CORPORATION,SeaAroundUs Unreported / Total Catch (%),0.1170874841
+CHINA NATIONAL FISHERIES CORPORATION,Reporting Precision PT Score,0.2602052075
+CHINA NATIONAL FISHERIES CORPORATION,SeaAroundUs Bottom Trawl / Total Catch (%),0.1436678665
+CHINA NATIONAL FISHERIES CORPORATION,SeaAroundUs Gillnets / Total Catch (%),0.01504328393
+CHINA NATIONAL FISHERIES CORPORATION,SeaAroundUs Unreported / Total Catch (%),0.1162199954
 CHISHAN GROUP,Global Fishing Index - Access of foreign fishing fleets (assessment score),0.6267741935
 CHISHAN GROUP,Global Fishing Index - Alignment with international standards for protecting worker rights and safety in fisheries (assessment score),0.4612903226
 CHISHAN GROUP,Global Fishing Index - Compliance monitoring and surveillance programs (assessment score),0.7032258065
@@ -764,11 +759,11 @@ COMPANIA PESQUERA CAMANCHACA SA,Ocean Health Index - Score (2024),0.6957
 COMPANIA PESQUERA CAMANCHACA SA,Reporting Precision PT Score,0.8381238572
 COMPANIA PESQUERA CAMANCHACA SA,SeaAroundUs Bottom Trawl / Total Catch (%),0.0004351678021
 COMPANIA PESQUERA CAMANCHACA SA,SeaAroundUs Unreported / Total Catch (%),0.0552317688
-COOKE,FishSource Score - Current Stock Health,0.7687140022
-COOKE,FishSource Score - Fishers Compliance,0.6911393493
-COOKE,FishSource Score - Future Stock Health,0.7493435408
-COOKE,FishSource Score - Management Quality,0.6400501302
-COOKE,FishSource Score - Managers Compliance,0.6829390613
+COOKE,FishSource Score - Current Stock Health,0.7684842959
+COOKE,FishSource Score - Fishers Compliance,0.6893150099
+COOKE,FishSource Score - Future Stock Health,0.7477584659
+COOKE,FishSource Score - Management Quality,0.6402788574
+COOKE,FishSource Score - Managers Compliance,0.6811657899
 COOKE,Global Fishing Index - Access of foreign fishing fleets (assessment score),0.6018181818
 COOKE,Global Fishing Index - Alignment with international standards for protecting worker rights and safety in fisheries (assessment score),0.4596363636
 COOKE,Global Fishing Index - Compliance monitoring and surveillance programs (assessment score),0.7070909091
@@ -784,7 +779,7 @@ COOKE,Global Fishing Index - Severity of fishery sanctions (assessment score),0.
 COOKE,Ocean Health Index - Score (% Change 2024/2015),-0.05879895094
 COOKE,Ocean Health Index - Score (2015),0.726758209
 COOKE,Ocean Health Index - Score (2024),0.6833014925
-COOKE,Reporting Precision PT Score,0.7784630936
+COOKE,Reporting Precision PT Score,0.7666358286
 COOKE,SeaAroundUs Bottom Trawl / Total Catch (%),0.1034437971
 COOKE,SeaAroundUs Gillnets / Total Catch (%),0.004464683356
 COOKE,SeaAroundUs Unreported / Total Catch (%),0.1335047724
@@ -1150,11 +1145,11 @@ EMPRESAS AQUACHILE SA,Ocean Health Index - Score (% Change 2024/2015),-0.0560243
 EMPRESAS AQUACHILE SA,Ocean Health Index - Score (2015),0.7068901639
 EMPRESAS AQUACHILE SA,Ocean Health Index - Score (2024),0.6665546448
 EMPRESAS AQUACHILE SA,Reporting Precision PT Score,0.6372563064
-ESPERSEN,FishSource Score - Current Stock Health,0.7315909037
-ESPERSEN,FishSource Score - Fishers Compliance,0.7892982499
-ESPERSEN,FishSource Score - Future Stock Health,0.7518675648
-ESPERSEN,FishSource Score - Management Quality,0.652768778
-ESPERSEN,FishSource Score - Managers Compliance,0.7174233126
+ESPERSEN,FishSource Score - Current Stock Health,0.7304875312
+ESPERSEN,FishSource Score - Fishers Compliance,0.7860566845
+ESPERSEN,FishSource Score - Future Stock Health,0.7482478703
+ESPERSEN,FishSource Score - Management Quality,0.6535120002
+ESPERSEN,FishSource Score - Managers Compliance,0.713357461
 ESPERSEN,Global Fishing Index - Access of foreign fishing fleets (assessment score),0.5566666667
 ESPERSEN,Global Fishing Index - Alignment with international standards for protecting worker rights and safety in fisheries (assessment score),0.7766666667
 ESPERSEN,Global Fishing Index - Compliance monitoring and surveillance programs (assessment score),0.9033333333
@@ -1170,7 +1165,7 @@ ESPERSEN,Global Fishing Index - Severity of fishery sanctions (assessment score)
 ESPERSEN,Ocean Health Index - Score (% Change 2024/2015),-0.08145629778
 ESPERSEN,Ocean Health Index - Score (2015),0.715175
 ESPERSEN,Ocean Health Index - Score (2024),0.65615
-ESPERSEN,Reporting Precision PT Score,0.4279929007
+ESPERSEN,Reporting Precision PT Score,0.4214373223
 ESPERSEN,SeaAroundUs Bottom Trawl / Total Catch (%),0.5055515799
 ESPERSEN,SeaAroundUs Gillnets / Total Catch (%),0.02626389333
 ESPERSEN,SeaAroundUs Unreported / Total Catch (%),0.1631788734
@@ -1498,11 +1493,11 @@ GIDROSTROY,Reporting Precision PT Score,0.6365878134
 GIDROSTROY,SeaAroundUs Bottom Trawl / Total Catch (%),0.0561878748
 GIDROSTROY,SeaAroundUs Gillnets / Total Catch (%),0.05926876883
 GIDROSTROY,SeaAroundUs Unreported / Total Catch (%),0.4462574667
-GLOBAL FOOD CORP,FishSource Score - Current Stock Health,0.7080052456
-GLOBAL FOOD CORP,FishSource Score - Fishers Compliance,0.7039507886
-GLOBAL FOOD CORP,FishSource Score - Future Stock Health,0.7186641373
-GLOBAL FOOD CORP,FishSource Score - Management Quality,0.6094186193
-GLOBAL FOOD CORP,FishSource Score - Managers Compliance,0.6933946424
+GLOBAL FOOD CORP,FishSource Score - Current Stock Health,0.7060215312
+GLOBAL FOOD CORP,FishSource Score - Fishers Compliance,0.6988243953
+GLOBAL FOOD CORP,FishSource Score - Future Stock Health,0.7137389156
+GLOBAL FOOD CORP,FishSource Score - Management Quality,0.6095762531
+GLOBAL FOOD CORP,FishSource Score - Managers Compliance,0.6881083432
 GLOBAL FOOD CORP,Global Fishing Index - Access of foreign fishing fleets (assessment score),0.5
 GLOBAL FOOD CORP,Global Fishing Index - Alignment with international standards for protecting worker rights and safety in fisheries (assessment score),0.368
 GLOBAL FOOD CORP,Global Fishing Index - Compliance monitoring and surveillance programs (assessment score),0.808
@@ -1518,7 +1513,7 @@ GLOBAL FOOD CORP,Global Fishing Index - Severity of fishery sanctions (assessmen
 GLOBAL FOOD CORP,Ocean Health Index - Score (% Change 2024/2015),-0.06961170629
 GLOBAL FOOD CORP,Ocean Health Index - Score (2015),0.71438
 GLOBAL FOOD CORP,Ocean Health Index - Score (2024),0.66298
-GLOBAL FOOD CORP,Reporting Precision PT Score,0.5148514349
+GLOBAL FOOD CORP,Reporting Precision PT Score,0.4566607898
 GLOBAL FOOD CORP,SeaAroundUs Bottom Trawl / Total Catch (%),0.3433572587
 GLOBAL FOOD CORP,SeaAroundUs Gillnets / Total Catch (%),0.06330298496
 GLOBAL FOOD CORP,SeaAroundUs Unreported / Total Catch (%),0.1667935439
@@ -1546,11 +1541,11 @@ GOSHOKU CO LTD,Reporting Precision PT Score,0.1891723421
 GOSHOKU CO LTD,SeaAroundUs Bottom Trawl / Total Catch (%),0.2499129086
 GOSHOKU CO LTD,SeaAroundUs Gillnets / Total Catch (%),0.03005158495
 GOSHOKU CO LTD,SeaAroundUs Unreported / Total Catch (%),0.1973054236
-GREENLAND SEAFOOD EUROPE GMBH,FishSource Score - Current Stock Health,0.8034640322
-GREENLAND SEAFOOD EUROPE GMBH,FishSource Score - Fishers Compliance,0.7730932672
-GREENLAND SEAFOOD EUROPE GMBH,FishSource Score - Future Stock Health,0.7503783679
-GREENLAND SEAFOOD EUROPE GMBH,FishSource Score - Management Quality,0.6612628281
-GREENLAND SEAFOOD EUROPE GMBH,FishSource Score - Managers Compliance,0.6988113255
+GREENLAND SEAFOOD EUROPE GMBH,FishSource Score - Current Stock Health,0.8035096671
+GREENLAND SEAFOOD EUROPE GMBH,FishSource Score - Fishers Compliance,0.7704474102
+GREENLAND SEAFOOD EUROPE GMBH,FishSource Score - Future Stock Health,0.7475709354
+GREENLAND SEAFOOD EUROPE GMBH,FishSource Score - Management Quality,0.6619199979
+GREENLAND SEAFOOD EUROPE GMBH,FishSource Score - Managers Compliance,0.6953865649
 GREENLAND SEAFOOD EUROPE GMBH,Global Fishing Index - Access of foreign fishing fleets (assessment score),0.550698324
 GREENLAND SEAFOOD EUROPE GMBH,Global Fishing Index - Alignment with international standards for protecting worker rights and safety in fisheries (assessment score),0.4879329609
 GREENLAND SEAFOOD EUROPE GMBH,Global Fishing Index - Compliance monitoring and surveillance programs (assessment score),0.7329329609
@@ -1566,7 +1561,7 @@ GREENLAND SEAFOOD EUROPE GMBH,Global Fishing Index - Severity of fishery sanctio
 GREENLAND SEAFOOD EUROPE GMBH,Ocean Health Index - Score (% Change 2024/2015),-0.05566881572
 GREENLAND SEAFOOD EUROPE GMBH,Ocean Health Index - Score (2015),0.7080942857
 GREENLAND SEAFOOD EUROPE GMBH,Ocean Health Index - Score (2024),0.6678630769
-GREENLAND SEAFOOD EUROPE GMBH,Reporting Precision PT Score,0.4355326514
+GREENLAND SEAFOOD EUROPE GMBH,Reporting Precision PT Score,0.4210062131
 GREENLAND SEAFOOD EUROPE GMBH,SeaAroundUs Bottom Trawl / Total Catch (%),0.3739650709
 GREENLAND SEAFOOD EUROPE GMBH,SeaAroundUs Gillnets / Total Catch (%),0.03898967721
 GREENLAND SEAFOOD EUROPE GMBH,SeaAroundUs Unreported / Total Catch (%),0.1436865218
@@ -1883,11 +1878,11 @@ HIGASHIMARU INTERNATIONAL CORP,Reporting Precision PT Score,0.5786750671
 HIGASHIMARU INTERNATIONAL CORP,SeaAroundUs Bottom Trawl / Total Catch (%),0.3868185576
 HIGASHIMARU INTERNATIONAL CORP,SeaAroundUs Gillnets / Total Catch (%),0.0002330432542
 HIGASHIMARU INTERNATIONAL CORP,SeaAroundUs Unreported / Total Catch (%),0.08201200169
-HIGH LINER FOODS INCORPORATED,FishSource Score - Current Stock Health,0.7455920412
-HIGH LINER FOODS INCORPORATED,FishSource Score - Fishers Compliance,0.7967638743
-HIGH LINER FOODS INCORPORATED,FishSource Score - Future Stock Health,0.7428430736
-HIGH LINER FOODS INCORPORATED,FishSource Score - Management Quality,0.6782826421
-HIGH LINER FOODS INCORPORATED,FishSource Score - Managers Compliance,0.7637195067
+HIGH LINER FOODS INCORPORATED,FishSource Score - Current Stock Health,0.743967923
+HIGH LINER FOODS INCORPORATED,FishSource Score - Fishers Compliance,0.7913801359
+HIGH LINER FOODS INCORPORATED,FishSource Score - Future Stock Health,0.7360569196
+HIGH LINER FOODS INCORPORATED,FishSource Score - Management Quality,0.6803563545
+HIGH LINER FOODS INCORPORATED,FishSource Score - Managers Compliance,0.7576996215
 HIGH LINER FOODS INCORPORATED,Global Fishing Index - Access of foreign fishing fleets (assessment score),0.595
 HIGH LINER FOODS INCORPORATED,Global Fishing Index - Alignment with international standards for protecting worker rights and safety in fisheries (assessment score),0.4466666667
 HIGH LINER FOODS INCORPORATED,Global Fishing Index - Compliance monitoring and surveillance programs (assessment score),0.8683333333
@@ -1903,7 +1898,7 @@ HIGH LINER FOODS INCORPORATED,Global Fishing Index - Severity of fishery sanctio
 HIGH LINER FOODS INCORPORATED,Ocean Health Index - Score (% Change 2024/2015),-0.08886817353
 HIGH LINER FOODS INCORPORATED,Ocean Health Index - Score (2015),0.7762833333
 HIGH LINER FOODS INCORPORATED,Ocean Health Index - Score (2024),0.7064166667
-HIGH LINER FOODS INCORPORATED,Reporting Precision PT Score,0.884863933
+HIGH LINER FOODS INCORPORATED,Reporting Precision PT Score,0.8797396514
 HIGH LINER FOODS INCORPORATED,SeaAroundUs Bottom Trawl / Total Catch (%),0.1377976563
 HIGH LINER FOODS INCORPORATED,SeaAroundUs Gillnets / Total Catch (%),0.004863224655
 HIGH LINER FOODS INCORPORATED,SeaAroundUs Unreported / Total Catch (%),0.1149048044
@@ -2882,11 +2877,11 @@ NITTO SEIMO,Reporting Precision PT Score,0.8388704707
 NITTO SEIMO,SeaAroundUs Bottom Trawl / Total Catch (%),0.00536793045
 NITTO SEIMO,SeaAroundUs Gillnets / Total Catch (%),1.76432461e-05
 NITTO SEIMO,SeaAroundUs Unreported / Total Catch (%),0.02376601086
-NOMAD FOODS,FishSource Score - Current Stock Health,0.629210688
-NOMAD FOODS,FishSource Score - Fishers Compliance,0.8732820673
-NOMAD FOODS,FishSource Score - Future Stock Health,0.6688426065
-NOMAD FOODS,FishSource Score - Management Quality,0.5950914793
-NOMAD FOODS,FishSource Score - Managers Compliance,0.6035162515
+NOMAD FOODS,FishSource Score - Current Stock Health,0.6120088868
+NOMAD FOODS,FishSource Score - Fishers Compliance,0.86051911
+NOMAD FOODS,FishSource Score - Future Stock Health,0.6395174014
+NOMAD FOODS,FishSource Score - Management Quality,0.5945970959
+NOMAD FOODS,FishSource Score - Managers Compliance,0.5635826365
 NOMAD FOODS,Global Fishing Index - Access of foreign fishing fleets (assessment score),0.567027027
 NOMAD FOODS,Global Fishing Index - Alignment with international standards for protecting worker rights and safety in fisheries (assessment score),0.6147297297
 NOMAD FOODS,Global Fishing Index - Compliance monitoring and surveillance programs (assessment score),0.812027027
@@ -3225,11 +3220,11 @@ OYANG CORP,Reporting Precision PT Score,0.1677076822
 OYANG CORP,SeaAroundUs Bottom Trawl / Total Catch (%),0.3192700655
 OYANG CORP,SeaAroundUs Gillnets / Total Catch (%),9.452908986e-05
 OYANG CORP,SeaAroundUs Unreported / Total Catch (%),0.05023150169
-PACIFIC SEAFOOD,FishSource Score - Current Stock Health,0.7484586835
-PACIFIC SEAFOOD,FishSource Score - Fishers Compliance,0.8141413262
-PACIFIC SEAFOOD,FishSource Score - Future Stock Health,0.7771651536
-PACIFIC SEAFOOD,FishSource Score - Management Quality,0.6804318383
-PACIFIC SEAFOOD,FishSource Score - Managers Compliance,0.7793483787
+PACIFIC SEAFOOD,FishSource Score - Current Stock Health,0.7468981036
+PACIFIC SEAFOOD,FishSource Score - Fishers Compliance,0.8090643451
+PACIFIC SEAFOOD,FishSource Score - Future Stock Health,0.771441897
+PACIFIC SEAFOOD,FishSource Score - Management Quality,0.6825447087
+PACIFIC SEAFOOD,FishSource Score - Managers Compliance,0.7737888894
 PACIFIC SEAFOOD,Global Fishing Index - Access of foreign fishing fleets (assessment score),0.58
 PACIFIC SEAFOOD,Global Fishing Index - Alignment with international standards for protecting worker rights and safety in fisheries (assessment score),0.2075
 PACIFIC SEAFOOD,Global Fishing Index - Compliance monitoring and surveillance programs (assessment score),0.926
@@ -3245,7 +3240,7 @@ PACIFIC SEAFOOD,Global Fishing Index - Severity of fishery sanctions (assessment
 PACIFIC SEAFOOD,Ocean Health Index - Score (% Change 2024/2015),-0.1074476194
 PACIFIC SEAFOOD,Ocean Health Index - Score (2015),0.796805
 PACIFIC SEAFOOD,Ocean Health Index - Score (2024),0.711345
-PACIFIC SEAFOOD,Reporting Precision PT Score,0.8131156283
+PACIFIC SEAFOOD,Reporting Precision PT Score,0.8020743009
 PACIFIC SEAFOOD,SeaAroundUs Bottom Trawl / Total Catch (%),0.2450167559
 PACIFIC SEAFOOD,SeaAroundUs Gillnets / Total Catch (%),0.000586410953
 PACIFIC SEAFOOD,SeaAroundUs Unreported / Total Catch (%),0.1799348439
@@ -4172,11 +4167,11 @@ SHANGDONG MEIJIA GROUP CO LTD,Ocean Health Index - Score (% Change 2024/2015),-0
 SHANGDONG MEIJIA GROUP CO LTD,Ocean Health Index - Score (2015),0.7201843137
 SHANGDONG MEIJIA GROUP CO LTD,Ocean Health Index - Score (2024),0.6759705882
 SHANGDONG MEIJIA GROUP CO LTD,Reporting Precision PT Score,0.4903066727
-SHANGHAI KAICHUANG MARINE INTERNATIONAL CO LTD,FishSource Score - Current Stock Health,0.7403933956
-SHANGHAI KAICHUANG MARINE INTERNATIONAL CO LTD,FishSource Score - Fishers Compliance,0.696514351
-SHANGHAI KAICHUANG MARINE INTERNATIONAL CO LTD,FishSource Score - Future Stock Health,0.7497082702
-SHANGHAI KAICHUANG MARINE INTERNATIONAL CO LTD,FishSource Score - Management Quality,0.6201218289
-SHANGHAI KAICHUANG MARINE INTERNATIONAL CO LTD,FishSource Score - Managers Compliance,0.6837897722
+SHANGHAI KAICHUANG MARINE INTERNATIONAL CO LTD,FishSource Score - Current Stock Health,0.7397560923
+SHANGHAI KAICHUANG MARINE INTERNATIONAL CO LTD,FishSource Score - Fishers Compliance,0.6937838635
+SHANGHAI KAICHUANG MARINE INTERNATIONAL CO LTD,FishSource Score - Future Stock Health,0.7474725232
+SHANGHAI KAICHUANG MARINE INTERNATIONAL CO LTD,FishSource Score - Management Quality,0.6202945048
+SHANGHAI KAICHUANG MARINE INTERNATIONAL CO LTD,FishSource Score - Managers Compliance,0.6810520213
 SHANGHAI KAICHUANG MARINE INTERNATIONAL CO LTD,Global Fishing Index - Access of foreign fishing fleets (assessment score),0.5370212766
 SHANGHAI KAICHUANG MARINE INTERNATIONAL CO LTD,Global Fishing Index - Alignment with international standards for protecting worker rights and safety in fisheries (assessment score),0.3446808511
 SHANGHAI KAICHUANG MARINE INTERNATIONAL CO LTD,Global Fishing Index - Compliance monitoring and surveillance programs (assessment score),0.8168085106
@@ -4192,7 +4187,7 @@ SHANGHAI KAICHUANG MARINE INTERNATIONAL CO LTD,Global Fishing Index - Severity o
 SHANGHAI KAICHUANG MARINE INTERNATIONAL CO LTD,Ocean Health Index - Score (% Change 2024/2015),-0.07718291531
 SHANGHAI KAICHUANG MARINE INTERNATIONAL CO LTD,Ocean Health Index - Score (2015),0.712382
 SHANGHAI KAICHUANG MARINE INTERNATIONAL CO LTD,Ocean Health Index - Score (2024),0.656204
-SHANGHAI KAICHUANG MARINE INTERNATIONAL CO LTD,Reporting Precision PT Score,0.4090178499
+SHANGHAI KAICHUANG MARINE INTERNATIONAL CO LTD,Reporting Precision PT Score,0.3936548721
 SHANGHAI KAICHUANG MARINE INTERNATIONAL CO LTD,SeaAroundUs Bottom Trawl / Total Catch (%),0.2917470871
 SHANGHAI KAICHUANG MARINE INTERNATIONAL CO LTD,SeaAroundUs Gillnets / Total Catch (%),0.03715105388
 SHANGHAI KAICHUANG MARINE INTERNATIONAL CO LTD,SeaAroundUs Unreported / Total Catch (%),0.1309436072
@@ -4220,11 +4215,11 @@ SHENZHEN LIANCHENG OVERSEAS FISHERIES,Reporting Precision PT Score,1
 SHENZHEN LIANCHENG OVERSEAS FISHERIES,SeaAroundUs Bottom Trawl / Total Catch (%),6.00877935e-06
 SHENZHEN LIANCHENG OVERSEAS FISHERIES,SeaAroundUs Gillnets / Total Catch (%),3.128116875e-05
 SHENZHEN LIANCHENG OVERSEAS FISHERIES,SeaAroundUs Unreported / Total Catch (%),0.07300376535
-SHINYEI KAISHA,FishSource Score - Current Stock Health,0.7745244696
-SHINYEI KAISHA,FishSource Score - Fishers Compliance,0.742546715
-SHINYEI KAISHA,FishSource Score - Future Stock Health,0.741853101
-SHINYEI KAISHA,FishSource Score - Management Quality,0.618937008
-SHINYEI KAISHA,FishSource Score - Managers Compliance,0.7055781326
+SHINYEI KAISHA,FishSource Score - Current Stock Health,0.7744163507
+SHINYEI KAISHA,FishSource Score - Fishers Compliance,0.7415844227
+SHINYEI KAISHA,FishSource Score - Future Stock Health,0.7409141617
+SHINYEI KAISHA,FishSource Score - Management Quality,0.6190048421
+SHINYEI KAISHA,FishSource Score - Managers Compliance,0.7045285002
 SHINYEI KAISHA,Global Fishing Index - Access of foreign fishing fleets (assessment score),0.5494444444
 SHINYEI KAISHA,Global Fishing Index - Alignment with international standards for protecting worker rights and safety in fisheries (assessment score),0.4508333333
 SHINYEI KAISHA,Global Fishing Index - Compliance monitoring and surveillance programs (assessment score),0.7127083333
@@ -4240,7 +4235,7 @@ SHINYEI KAISHA,Global Fishing Index - Severity of fishery sanctions (assessment 
 SHINYEI KAISHA,Ocean Health Index - Score (% Change 2024/2015),-0.05581590088
 SHINYEI KAISHA,Ocean Health Index - Score (2015),0.7058884615
 SHINYEI KAISHA,Ocean Health Index - Score (2024),0.6657626374
-SHINYEI KAISHA,Reporting Precision PT Score,0.5522665488
+SHINYEI KAISHA,Reporting Precision PT Score,0.5437364339
 SHINYEI KAISHA,SeaAroundUs Bottom Trawl / Total Catch (%),0.2446003025
 SHINYEI KAISHA,SeaAroundUs Gillnets / Total Catch (%),0.0327460549
 SHINYEI KAISHA,SeaAroundUs Unreported / Total Catch (%),0.1786316184
@@ -4248,11 +4243,11 @@ SHOWA SANGYO CO LTD,Ocean Health Index - Score (% Change 2024/2015),0.0606196677
 SHOWA SANGYO CO LTD,Ocean Health Index - Score (2015),0.6681
 SHOWA SANGYO CO LTD,Ocean Health Index - Score (2024),0.7086
 SHOWA SANGYO CO LTD,Reporting Precision PT Score,0.7794531416
-SIGMA MARINE TECHNOLOGY,FishSource Score - Current Stock Health,0.6836190476
-SIGMA MARINE TECHNOLOGY,FishSource Score - Fishers Compliance,0.804789272
-SIGMA MARINE TECHNOLOGY,FishSource Score - Future Stock Health,0.7144761905
-SIGMA MARINE TECHNOLOGY,FishSource Score - Management Quality,0.636729461
-SIGMA MARINE TECHNOLOGY,FishSource Score - Managers Compliance,0.8102747253
+SIGMA MARINE TECHNOLOGY,FishSource Score - Current Stock Health,0.6545238095
+SIGMA MARINE TECHNOLOGY,FishSource Score - Fishers Compliance,0.7673515982
+SIGMA MARINE TECHNOLOGY,FishSource Score - Future Stock Health,0.6530952381
+SIGMA MARINE TECHNOLOGY,FishSource Score - Management Quality,0.6434075448
+SIGMA MARINE TECHNOLOGY,FishSource Score - Managers Compliance,0.7757792208
 SIGMA MARINE TECHNOLOGY,Global Fishing Index - Access of foreign fishing fleets (assessment score),0.49
 SIGMA MARINE TECHNOLOGY,Global Fishing Index - Alignment with international standards for protecting worker rights and safety in fisheries (assessment score),0.4785714286
 SIGMA MARINE TECHNOLOGY,Global Fishing Index - Compliance monitoring and surveillance programs (assessment score),0.9157142857
@@ -4268,7 +4263,7 @@ SIGMA MARINE TECHNOLOGY,Global Fishing Index - Severity of fishery sanctions (as
 SIGMA MARINE TECHNOLOGY,Ocean Health Index - Score (% Change 2024/2015),-0.02541426659
 SIGMA MARINE TECHNOLOGY,Ocean Health Index - Score (2015),0.7335142857
 SIGMA MARINE TECHNOLOGY,Ocean Health Index - Score (2024),0.7148428571
-SIGMA MARINE TECHNOLOGY,Reporting Precision PT Score,0.8347201199
+SIGMA MARINE TECHNOLOGY,Reporting Precision PT Score,0.8273900388
 SIGMA MARINE TECHNOLOGY,SeaAroundUs Bottom Trawl / Total Catch (%),0.2077664792
 SIGMA MARINE TECHNOLOGY,SeaAroundUs Gillnets / Total Catch (%),0.05782104603
 SIGMA MARINE TECHNOLOGY,SeaAroundUs Unreported / Total Catch (%),0.1771969691
@@ -4317,11 +4312,11 @@ SINKABERG-HANSEN AS,Ocean Health Index - Score (% Change 2024/2015),-0.078688082
 SINKABERG-HANSEN AS,Ocean Health Index - Score (2015),0.7409
 SINKABERG-HANSEN AS,Ocean Health Index - Score (2024),0.6826
 SINKABERG-HANSEN AS,Reporting Precision PT Score,0.5840445189
-SIRENA GROUP,FishSource Score - Current Stock Health,0.7387609758
-SIRENA GROUP,FishSource Score - Fishers Compliance,0.86988082
-SIRENA GROUP,FishSource Score - Future Stock Health,0.7720097861
-SIRENA GROUP,FishSource Score - Management Quality,0.7133633038
-SIRENA GROUP,FishSource Score - Managers Compliance,0.7607771424
+SIRENA GROUP,FishSource Score - Current Stock Health,0.7439193919
+SIRENA GROUP,FishSource Score - Fishers Compliance,0.8760045339
+SIRENA GROUP,FishSource Score - Future Stock Health,0.778388575
+SIRENA GROUP,FishSource Score - Management Quality,0.7156534716
+SIRENA GROUP,FishSource Score - Managers Compliance,0.7663425082
 SIRENA GROUP,Global Fishing Index - Access of foreign fishing fleets (assessment score),0.5511290323
 SIRENA GROUP,Global Fishing Index - Alignment with international standards for protecting worker rights and safety in fisheries (assessment score),0.685
 SIRENA GROUP,Global Fishing Index - Compliance monitoring and surveillance programs (assessment score),0.8069354839
@@ -4337,10 +4332,10 @@ SIRENA GROUP,Global Fishing Index - Severity of fishery sanctions (assessment sc
 SIRENA GROUP,Ocean Health Index - Score (% Change 2024/2015),-0.05865070973
 SIRENA GROUP,Ocean Health Index - Score (2015),0.719072973
 SIRENA GROUP,Ocean Health Index - Score (2024),0.6759851351
-SIRENA GROUP,Reporting Precision PT Score,0.8273664606
-SIRENA GROUP,SeaAroundUs Bottom Trawl / Total Catch (%),0.2097248346
-SIRENA GROUP,SeaAroundUs Gillnets / Total Catch (%),0.04614707302
-SIRENA GROUP,SeaAroundUs Unreported / Total Catch (%),0.07187629794
+SIRENA GROUP,Reporting Precision PT Score,0.8249488629
+SIRENA GROUP,SeaAroundUs Bottom Trawl / Total Catch (%),0.2097248351
+SIRENA GROUP,SeaAroundUs Gillnets / Total Catch (%),0.04614707315
+SIRENA GROUP,SeaAroundUs Unreported / Total Catch (%),0.07187629813
 SKRETTING AS,Ocean Health Index - Score (% Change 2024/2015),-0.06514097188
 SKRETTING AS,Ocean Health Index - Score (2015),0.7268769231
 SKRETTING AS,Ocean Health Index - Score (2024),0.6795230769
@@ -4380,11 +4375,11 @@ TECH-BANK FOOD CO LTD (TIANBANG FOOD CO LTD),Ocean Health Index - Score (% Chang
 TECH-BANK FOOD CO LTD (TIANBANG FOOD CO LTD),Ocean Health Index - Score (2015),0.6703
 TECH-BANK FOOD CO LTD (TIANBANG FOOD CO LTD),Ocean Health Index - Score (2024),0.6148
 TECH-BANK FOOD CO LTD (TIANBANG FOOD CO LTD),Reporting Precision PT Score,0.67013589
-THAI UNION GROUP PUBLIC COMPANY LIMITED,FishSource Score - Current Stock Health,0.7647010317
-THAI UNION GROUP PUBLIC COMPANY LIMITED,FishSource Score - Fishers Compliance,0.7288056571
-THAI UNION GROUP PUBLIC COMPANY LIMITED,FishSource Score - Future Stock Health,0.7478532224
-THAI UNION GROUP PUBLIC COMPANY LIMITED,FishSource Score - Management Quality,0.6159936744
-THAI UNION GROUP PUBLIC COMPANY LIMITED,FishSource Score - Managers Compliance,0.6962875425
+THAI UNION GROUP PUBLIC COMPANY LIMITED,FishSource Score - Current Stock Health,0.7646338879
+THAI UNION GROUP PUBLIC COMPANY LIMITED,FishSource Score - Fishers Compliance,0.7283470205
+THAI UNION GROUP PUBLIC COMPANY LIMITED,FishSource Score - Future Stock Health,0.747444199
+THAI UNION GROUP PUBLIC COMPANY LIMITED,FishSource Score - Management Quality,0.6160196031
+THAI UNION GROUP PUBLIC COMPANY LIMITED,FishSource Score - Managers Compliance,0.6957999556
 THAI UNION GROUP PUBLIC COMPANY LIMITED,Global Fishing Index - Access of foreign fishing fleets (assessment score),0.5415238095
 THAI UNION GROUP PUBLIC COMPANY LIMITED,Global Fishing Index - Alignment with international standards for protecting worker rights and safety in fisheries (assessment score),0.4678095238
 THAI UNION GROUP PUBLIC COMPANY LIMITED,Global Fishing Index - Compliance monitoring and surveillance programs (assessment score),0.7409047619
@@ -4400,7 +4395,7 @@ THAI UNION GROUP PUBLIC COMPANY LIMITED,Global Fishing Index - Severity of fishe
 THAI UNION GROUP PUBLIC COMPANY LIMITED,Ocean Health Index - Score (% Change 2024/2015),-0.05785911837
 THAI UNION GROUP PUBLIC COMPANY LIMITED,Ocean Health Index - Score (2015),0.7106580392
 THAI UNION GROUP PUBLIC COMPANY LIMITED,Ocean Health Index - Score (2024),0.668774902
-THAI UNION GROUP PUBLIC COMPANY LIMITED,Reporting Precision PT Score,0.8152777595
+THAI UNION GROUP PUBLIC COMPANY LIMITED,Reporting Precision PT Score,0.8095236071
 THAI UNION GROUP PUBLIC COMPANY LIMITED,SeaAroundUs Bottom Trawl / Total Catch (%),0.2099781197
 THAI UNION GROUP PUBLIC COMPANY LIMITED,SeaAroundUs Gillnets / Total Catch (%),0.02426325484
 THAI UNION GROUP PUBLIC COMPANY LIMITED,SeaAroundUs Unreported / Total Catch (%),0.1824079132
@@ -4877,7 +4872,7 @@ YOUNG'S SEAFOOD LTD,Global Fishing Index - Severity of fishery sanctions (assess
 YOUNG'S SEAFOOD LTD,Ocean Health Index - Score (% Change 2024/2015),-0.1240005243
 YOUNG'S SEAFOOD LTD,Ocean Health Index - Score (2015),0.7629
 YOUNG'S SEAFOOD LTD,Ocean Health Index - Score (2024),0.6683
-YOUNG'S SEAFOOD LTD,Reporting Precision PT Score,0.7966071805
+YOUNG'S SEAFOOD LTD,Reporting Precision PT Score,0.7744555384
 YOUNG'S SEAFOOD LTD,SeaAroundUs Bottom Trawl / Total Catch (%),0.3390322155
 YOUNG'S SEAFOOD LTD,SeaAroundUs Gillnets / Total Catch (%),0.001162675448
 YOUNG'S SEAFOOD LTD,SeaAroundUs Unreported / Total Catch (%),0.068865359
